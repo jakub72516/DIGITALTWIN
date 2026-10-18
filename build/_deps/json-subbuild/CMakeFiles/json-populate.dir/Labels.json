@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/json-populate"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/b6d2b648d055c3e1f464880fdd05bf7e/json-populate.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/d8af24777935cb0d38f7d1aa9a9f6cac/json-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/bee812f2755254e5909f919419b45ddd/json-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/bee812f2755254e5909f919419b45ddd/json-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/bee812f2755254e5909f919419b45ddd/json-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/bee812f2755254e5909f919419b45ddd/json-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/bee812f2755254e5909f919419b45ddd/json-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/bee812f2755254e5909f919419b45ddd/json-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/bee812f2755254e5909f919419b45ddd/json-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/bee812f2755254e5909f919419b45ddd/json-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"json-populate"
+		],
+		"name" : "json-populate"
+	}
+}

@@ -1,0 +1,10 @@
+^C:\USERS\MSI\DOCUMENTS\PORTFOLIO\DIGITALTWIN\BUILD\_DEPS\CATCH2-SRC\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/MSI/Documents/Portfolio/DIGITALTWIN -BC:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build --check-stamp-file C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-build/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

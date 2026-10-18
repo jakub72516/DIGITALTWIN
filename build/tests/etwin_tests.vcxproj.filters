@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\tests\component\test_units.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\tests\component\test_time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\tests\component\test_provenance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\tests\component\test_spatial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\tests\component\test_uncertainty.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\tests\integration\test_coupling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\tests\integration\test_scenario.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\tests\validation\test_validator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\tests\reproducibility\test_reproducibility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\json-src\nlohmann_json.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{67F76640-CB0D-3AAA-A4B8-404D483B94A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

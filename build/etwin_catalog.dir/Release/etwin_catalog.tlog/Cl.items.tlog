@@ -1,0 +1,11 @@
+C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\catalog\catalog.cpp;C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\etwin_catalog.dir\Release\catalog.obj
+C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\catalog\connector.cpp;C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\etwin_catalog.dir\Release\connector.obj
+C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\catalog\validation.cpp;C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\etwin_catalog.dir\Release\validation.obj
+C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\connectors\weather_connector.cpp;C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\etwin_catalog.dir\Release\weather_connector.obj
+C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\connectors\satellite_connector.cpp;C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\etwin_catalog.dir\Release\satellite_connector.obj
+C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\connectors\ocean_connector.cpp;C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\etwin_catalog.dir\Release\ocean_connector.obj
+C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\connectors\seismic_connector.cpp;C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\etwin_catalog.dir\Release\seismic_connector.obj
+C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\connectors\ecological_connector.cpp;C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\etwin_catalog.dir\Release\ecological_connector.obj
+C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\connectors\agricultural_connector.cpp;C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\etwin_catalog.dir\Release\agricultural_connector.obj
+C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\connectors\population_connector.cpp;C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\etwin_catalog.dir\Release\population_connector.obj
+C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\connectors\infrastructure_connector.cpp;C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\etwin_catalog.dir\Release\infrastructure_connector.obj

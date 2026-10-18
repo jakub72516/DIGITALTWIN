@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\model_module.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\atmosphere\simple_atmosphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\hydrology\hbv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\ocean\layered_ocean.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\cryosphere\degree_day.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\soil\soil_column.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\geohazard\coulomb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\ecosystem\carbon_cycle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\agriculture\crop_model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\forestry\forest_gap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\wildfire\fire_model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\population\population_model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\infrastructure\building_stock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\src\models\energy\dispatch_model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\json-src\nlohmann_json.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{67F76640-CB0D-3AAA-A4B8-404D483B94A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

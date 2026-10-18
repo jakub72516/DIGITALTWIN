@@ -1,0 +1,69 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build-and-test:
+    strategy:
+      fail-fast: false
+      matrix:
+        compiler: [gcc, clang]
+        sanitizer: [none, asan, ubsan]
+        include:
+          - compiler: gcc
+            cxx: g++
+          - compiler: clang
+            cxx: clang++
+        exclude:
+          - sanitizer: asan
+            compiler: clang
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libproj-dev libssl-dev
+
+      - name: Configure
+        run: |
+          cmake -B build \
+            -DCMAKE_CXX_COMPILER=${{ matrix.cxx }} \
+            -DETWIN_ENABLE_ASAN=${{ matrix.sanitizer == 'asan' && 'ON' || 'OFF' }} \
+            -DETWIN_ENABLE_UBSAN=${{ matrix.sanitizer == 'ubsan' && 'ON' || 'OFF' }} \
+            -DETWIN_ENABLE_TSAN=OFF \
+            -DCMAKE_BUILD_TYPE=Debug
+
+      - name: Build
+        run: cmake --build build -j2
+
+      - name: Test
+        run: ctest --test-dir build --output-on-failure
+
+  format-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check clang-format
+        run: |
+          sudo apt-get install -y clang-format
+          find src tests -name '*.cpp' -o -name '*.hpp' | xargs clang-format --dry-run -Werror
+
+  static-analysis:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install deps
+        run: sudo apt-get install -y clang-tidy libproj-dev libssl-dev
+      - name: Configure
+        run: cmake -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+      - name: Run clang-tidy
+        run: |
+          find src -name '*.cpp' | xargs clang-tidy -p build --quiet --warnings-as-errors='*'

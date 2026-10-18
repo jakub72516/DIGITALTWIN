@@ -1,0 +1,3 @@
+C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/json-populate.dir
+C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-subbuild/CMakeFiles/ZERO_CHECK.dir

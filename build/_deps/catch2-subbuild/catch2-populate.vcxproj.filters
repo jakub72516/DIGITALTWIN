@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeFiles\8332828585b0930f2e999713db3646a1\catch2-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeFiles\8332828585b0930f2e999713db3646a1\catch2-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeFiles\8332828585b0930f2e999713db3646a1\catch2-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeFiles\8332828585b0930f2e999713db3646a1\catch2-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeFiles\8332828585b0930f2e999713db3646a1\catch2-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeFiles\8332828585b0930f2e999713db3646a1\catch2-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeFiles\8332828585b0930f2e999713db3646a1\catch2-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeFiles\8332828585b0930f2e999713db3646a1\catch2-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeFiles\9e5dfe97f28d3f2e68ae0733d064673c\catch2-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeFiles\b969406c32137c6c3e0eb54994863a8b\catch2-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\MSI\Documents\Portfolio\DIGITALTWIN\build\_deps\catch2-subbuild\CMakeFiles\catch2-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{774CA59A-0DEB-3959-9E87-30C202FC0F89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

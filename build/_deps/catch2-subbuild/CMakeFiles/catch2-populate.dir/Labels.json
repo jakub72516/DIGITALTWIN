@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/CMakeFiles/b969406c32137c6c3e0eb54994863a8b/catch2-populate.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/CMakeFiles/9e5dfe97f28d3f2e68ae0733d064673c/catch2-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/CMakeFiles/8332828585b0930f2e999713db3646a1/catch2-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/CMakeFiles/8332828585b0930f2e999713db3646a1/catch2-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/CMakeFiles/8332828585b0930f2e999713db3646a1/catch2-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/CMakeFiles/8332828585b0930f2e999713db3646a1/catch2-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/CMakeFiles/8332828585b0930f2e999713db3646a1/catch2-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/CMakeFiles/8332828585b0930f2e999713db3646a1/catch2-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/CMakeFiles/8332828585b0930f2e999713db3646a1/catch2-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/CMakeFiles/8332828585b0930f2e999713db3646a1/catch2-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"catch2-populate"
+		],
+		"name" : "catch2-populate"
+	}
+}

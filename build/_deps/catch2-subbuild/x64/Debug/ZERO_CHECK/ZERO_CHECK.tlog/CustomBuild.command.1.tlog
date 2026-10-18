@@ -1,0 +1,10 @@
+^C:\USERS\MSI\DOCUMENTS\PORTFOLIO\DIGITALTWIN\BUILD\_DEPS\CATCH2-SUBBUILD\CMAKEFILES\B969406C32137C6C3E0EB54994863A8B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild -BC:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-subbuild/catch2-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

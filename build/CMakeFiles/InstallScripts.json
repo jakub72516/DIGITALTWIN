@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/cmake_install.cmake",
+		"C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/json-build/cmake_install.cmake",
+		"C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/cmake_install.cmake",
+		"C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-build/cmake_install.cmake",
+		"C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/_deps/catch2-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

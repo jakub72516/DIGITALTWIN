@@ -1,0 +1,1023 @@
+Start testing: Oct 18 16:06 Œrodkowoeuropejski czas letni
+----------------------------------------------------------
+1/51 Testing: Unit conversion
+1/51 Test: Unit conversion
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Unit conversion"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Unit conversion" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Unit conversion"
+Randomness seeded to: 3007567205
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Unit conversion" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Unit conversion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/51 Testing: Unit compatibility
+2/51 Test: Unit compatibility
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Unit compatibility"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Unit compatibility" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Unit compatibility"
+Randomness seeded to: 3702447491
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Unit compatibility" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Unit compatibility" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/51 Testing: Quantity arithmetic
+3/51 Test: Quantity arithmetic
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Quantity arithmetic"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Quantity arithmetic" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Quantity arithmetic"
+Randomness seeded to: 2595536578
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Quantity arithmetic" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Quantity arithmetic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/51 Testing: Unit mismatch throws
+4/51 Test: Unit mismatch throws
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Unit mismatch throws"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Unit mismatch throws" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Unit mismatch throws"
+Randomness seeded to: 3934357542
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Unit mismatch throws" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Unit mismatch throws" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/51 Testing: Dimensionless and percent
+5/51 Test: Dimensionless and percent
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Dimensionless and percent"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Dimensionless and percent" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Dimensionless and percent"
+Randomness seeded to: 753686972
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Dimensionless and percent" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Dimensionless and percent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/51 Testing: Instant comparison
+6/51 Test: Instant comparison
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Instant comparison"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Instant comparison" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Instant comparison"
+Randomness seeded to: 1418265901
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Instant comparison" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Instant comparison" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/51 Testing: Instant arithmetic
+7/51 Test: Instant arithmetic
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Instant arithmetic"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Instant arithmetic" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Instant arithmetic"
+Randomness seeded to: 3401566806
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Instant arithmetic" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Instant arithmetic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/51 Testing: TimeRange validation
+8/51 Test: TimeRange validation
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "TimeRange validation"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"TimeRange validation" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "TimeRange validation"
+Randomness seeded to: 2498026993
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TimeRange validation" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"TimeRange validation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/51 Testing: TimeRange rejects invalid
+9/51 Test: TimeRange rejects invalid
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "TimeRange rejects invalid"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"TimeRange rejects invalid" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "TimeRange rejects invalid"
+Randomness seeded to: 1372812769
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TimeRange rejects invalid" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"TimeRange rejects invalid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/51 Testing: ISO8601 round trip
+10/51 Test: ISO8601 round trip
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "ISO8601 round trip"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"ISO8601 round trip" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "ISO8601 round trip"
+Randomness seeded to: 2466756106
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ISO8601 round trip" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"ISO8601 round trip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/51 Testing: SHA256 deterministic
+11/51 Test: SHA256 deterministic
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "SHA256 deterministic"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"SHA256 deterministic" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "SHA256 deterministic"
+Randomness seeded to: 1902243427
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SHA256 deterministic" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"SHA256 deterministic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/51 Testing: SHA256 differs
+12/51 Test: SHA256 differs
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "SHA256 differs"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"SHA256 differs" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "SHA256 differs"
+Randomness seeded to: 965365763
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SHA256 differs" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"SHA256 differs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/51 Testing: Hash combine
+13/51 Test: Hash combine
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Hash combine"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Hash combine" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Hash combine"
+Randomness seeded to: 216370987
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Hash combine" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Hash combine" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/51 Testing: Provenance hash
+14/51 Test: Provenance hash
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Provenance hash"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Provenance hash" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Provenance hash"
+Randomness seeded to: 1987334644
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Provenance hash" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Provenance hash" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/51 Testing: Provenance reproducibility
+15/51 Test: Provenance reproducibility
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Provenance reproducibility"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Provenance reproducibility" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Provenance reproducibility"
+Randomness seeded to: 778272739
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Provenance reproducibility" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Provenance reproducibility" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/51 Testing: Provenance with issues
+16/51 Test: Provenance with issues
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Provenance with issues"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Provenance with issues" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Provenance with issues"
+Randomness seeded to: 2459158452
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Provenance with issues" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Provenance with issues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/51 Testing: Haversine distance
+17/51 Test: Haversine distance
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Haversine distance"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Haversine distance" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Haversine distance"
+Randomness seeded to: 2887638977
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Haversine distance" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Haversine distance" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/51 Testing: Bounding box containment
+18/51 Test: Bounding box containment
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Bounding box containment"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Bounding box containment" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Bounding box containment"
+Randomness seeded to: 58019971
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Bounding box containment" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Bounding box containment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/51 Testing: Bounding box intersection
+19/51 Test: Bounding box intersection
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Bounding box intersection"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Bounding box intersection" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Bounding box intersection"
+Randomness seeded to: 3257648234
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Bounding box intersection" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Bounding box intersection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/51 Testing: GeoRegion contains
+20/51 Test: GeoRegion contains
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "GeoRegion contains"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"GeoRegion contains" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "GeoRegion contains"
+Randomness seeded to: 2651198463
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GeoRegion contains" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"GeoRegion contains" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/51 Testing: Spatial index insert/query
+21/51 Test: Spatial index insert/query
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Spatial index insert/query"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Spatial index insert/query" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Spatial index insert/query"
+Randomness seeded to: 2265284237
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Spatial index insert/query" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Spatial index insert/query" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/51 Testing: Gaussian distribution
+22/51 Test: Gaussian distribution
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Gaussian distribution"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Gaussian distribution" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Gaussian distribution"
+Randomness seeded to: 2553995190
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Gaussian distribution" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Gaussian distribution" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/51 Testing: Uniform distribution
+23/51 Test: Uniform distribution
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Uniform distribution"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Uniform distribution" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Uniform distribution"
+Randomness seeded to: 4077260339
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Uniform distribution" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Uniform distribution" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/51 Testing: Uncertain value propagation
+24/51 Test: Uncertain value propagation
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Uncertain value propagation"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Uncertain value propagation" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Uncertain value propagation"
+Randomness seeded to: 364197677
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Uncertain value propagation" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Uncertain value propagation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/51 Testing: Ensemble statistics
+25/51 Test: Ensemble statistics
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Ensemble statistics"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Ensemble statistics" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Ensemble statistics"
+Randomness seeded to: 2148357854
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Ensemble statistics" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Ensemble statistics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/51 Testing: Uncertainty budget
+26/51 Test: Uncertainty budget
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Uncertainty budget"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Uncertainty budget" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Uncertainty budget"
+Randomness seeded to: 1304390257
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Uncertainty budget" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Uncertainty budget" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/51 Testing: Coupling link management
+27/51 Test: Coupling link management
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Coupling link management"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Coupling link management" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Coupling link management"
+Randomness seeded to: 1902084742
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Coupling link management" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Coupling link management" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/51 Testing: Coupling unit check
+28/51 Test: Coupling unit check
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Coupling unit check"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Coupling unit check" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Coupling unit check"
+Randomness seeded to: 746112985
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Coupling unit check" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Coupling unit check" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/51 Testing: Coupling unit mismatch
+29/51 Test: Coupling unit mismatch
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Coupling unit mismatch"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Coupling unit mismatch" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Coupling unit mismatch"
+Randomness seeded to: 3567722981
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Coupling unit mismatch" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Coupling unit mismatch" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/51 Testing: Coupling timestep check
+30/51 Test: Coupling timestep check
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Coupling timestep check"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Coupling timestep check" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Coupling timestep check"
+Randomness seeded to: 2055489624
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Coupling timestep check" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Coupling timestep check" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/51 Testing: Coupling validate_all
+31/51 Test: Coupling validate_all
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Coupling validate_all"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Coupling validate_all" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Coupling validate_all"
+Randomness seeded to: 2689666011
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Coupling validate_all" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Coupling validate_all" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/51 Testing: Time interpolation linear
+32/51 Test: Time interpolation linear
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Time interpolation linear"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Time interpolation linear" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Time interpolation linear"
+Randomness seeded to: 2650861920
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Time interpolation linear" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Time interpolation linear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/51 Testing: Mass conservation error
+33/51 Test: Mass conservation error
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Mass conservation error"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Mass conservation error" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Mass conservation error"
+Randomness seeded to: 2388011807
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Mass conservation error" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Mass conservation error" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/51 Testing: Scenario basic run
+34/51 Test: Scenario basic run
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Scenario basic run"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Scenario basic run" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Scenario basic run"
+Randomness seeded to: 2511049825
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Scenario basic run" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Scenario basic run" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/51 Testing: Scenario rejects invalid time range
+35/51 Test: Scenario rejects invalid time range
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Scenario rejects invalid time range"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Scenario rejects invalid time range" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Scenario rejects invalid time range"
+Randomness seeded to: 3281565085
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Scenario rejects invalid time range" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Scenario rejects invalid time range" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/51 Testing: Scenario unknown model fails
+36/51 Test: Scenario unknown model fails
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Scenario unknown model fails"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Scenario unknown model fails" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Scenario unknown model fails"
+Randomness seeded to: 3202717203
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Scenario unknown model fails" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Scenario unknown model fails" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/51 Testing: Run manifest round trip
+37/51 Test: Run manifest round trip
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Run manifest round trip"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Run manifest round trip" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Run manifest round trip"
+Randomness seeded to: 2613679681
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Run manifest round trip" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Run manifest round trip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/51 Testing: Manifest signing
+38/51 Test: Manifest signing
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Manifest signing"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Manifest signing" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Manifest signing"
+Randomness seeded to: 677703107
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Manifest signing" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Manifest signing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/51 Testing: Intervention library
+39/51 Test: Intervention library
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Intervention library"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Intervention library" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Intervention library"
+Randomness seeded to: 238001684
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Intervention library" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Intervention library" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/51 Testing: RMSE
+40/51 Test: RMSE
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "RMSE"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"RMSE" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "RMSE"
+Randomness seeded to: 4029229817
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RMSE" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"RMSE" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/51 Testing: RMSE non-zero
+41/51 Test: RMSE non-zero
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "RMSE non-zero"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"RMSE non-zero" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "RMSE non-zero"
+Randomness seeded to: 3469063233
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RMSE non-zero" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"RMSE non-zero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/51 Testing: Bias
+42/51 Test: Bias
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Bias"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Bias" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Bias"
+Randomness seeded to: 1868771141
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Bias" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Bias" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/51 Testing: Correlation
+43/51 Test: Correlation
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Correlation"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Correlation" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Correlation"
+Randomness seeded to: 764381504
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Correlation" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Correlation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/51 Testing: Nash-Sutcliffe perfect
+44/51 Test: Nash-Sutcliffe perfect
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Nash-Sutcliffe perfect"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Nash-Sutcliffe perfect" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Nash-Sutcliffe perfect"
+Randomness seeded to: 618218095
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Nash-Sutcliffe perfect" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Nash-Sutcliffe perfect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/51 Testing: Monte Carlo propagation
+45/51 Test: Monte Carlo propagation
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Monte Carlo propagation"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Monte Carlo propagation" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Monte Carlo propagation"
+Randomness seeded to: 579129551
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Monte Carlo propagation" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Monte Carlo propagation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/51 Testing: CRPS
+46/51 Test: CRPS
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "CRPS"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"CRPS" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "CRPS"
+Randomness seeded to: 2685674607
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"CRPS" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"CRPS" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/51 Testing: Brier score perfect
+47/51 Test: Brier score perfect
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Brier score perfect"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Brier score perfect" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Brier score perfect"
+Randomness seeded to: 4197031981
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Brier score perfect" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Brier score perfect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/51 Testing: Deterministic hash
+48/51 Test: Deterministic hash
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Deterministic hash"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Deterministic hash" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Deterministic hash"
+Randomness seeded to: 253567146
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Deterministic hash" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Deterministic hash" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/51 Testing: Hash changes with input
+49/51 Test: Hash changes with input
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Hash changes with input"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Hash changes with input" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Hash changes with input"
+Randomness seeded to: 2497125545
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Hash changes with input" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Hash changes with input" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/51 Testing: Manifest signature reproducibility
+50/51 Test: Manifest signature reproducibility
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Manifest signature reproducibility"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Manifest signature reproducibility" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Manifest signature reproducibility"
+Randomness seeded to: 4012818949
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Manifest signature reproducibility" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Manifest signature reproducibility" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/51 Testing: Deterministic instant
+51/51 Test: Deterministic instant
+Command: "C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests/Release/etwin_tests.exe" "Deterministic instant"
+Directory: C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/tests
+"Deterministic instant" start time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Filters: "Deterministic instant"
+Randomness seeded to: 1573177189
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Deterministic instant" end time: Oct 18 16:06 Œrodkowoeuropejski czas letni
+"Deterministic instant" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 18 16:06 Œrodkowoeuropejski czas letni

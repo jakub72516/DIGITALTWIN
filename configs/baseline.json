@@ -1,0 +1,58 @@
+{
+  "scenario_id": "example_baseline",
+  "name": "Example baseline scenario",
+  "type": "baseline",
+  "description": "A multi-decade baseline run coupling atmosphere, hydrology, agriculture, and energy.",
+  "start_time": "2000-01-01T00:00:00Z",
+  "end_time": "2030-01-01T00:00:00Z",
+  "time_step_hours": 6,
+  "models": [
+    {
+      "model_name": "simple_atmosphere",
+      "seed": 42,
+      "parameters": {
+        "solar_constant": 1361.0,
+        "albedo": 0.30
+      }
+    },
+    {
+      "model_name": "hbv",
+      "seed": 42,
+      "parameters": {
+        "fc": 200.0,
+        "beta": 2.0
+      }
+    },
+    {
+      "model_name": "crop_model",
+      "seed": 42,
+      "parameters": {
+        "gdd_to_maturity": 1500.0
+      }
+    },
+    {
+      "model_name": "dispatch_model",
+      "seed": 42,
+      "parameters": {
+        "renewable_capacity": 1000.0
+      }
+    }
+  ],
+  "coupling_links": [
+    {
+      "source_model": "simple_atmosphere",
+      "source_field": "surface_temperature",
+      "target_model": "hbv",
+      "target_field": "temperature",
+      "mode": "one_way"
+    },
+    {
+      "source_model": "hbv",
+      "source_field": "soil_moisture",
+      "target_model": "crop_model",
+      "target_field": "soil_moisture",
+      "mode": "one_way"
+    }
+  ],
+  "interventions": []
+}

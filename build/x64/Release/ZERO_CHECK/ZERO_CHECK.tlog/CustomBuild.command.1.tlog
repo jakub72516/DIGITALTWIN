@@ -1,0 +1,10 @@
+^C:\USERS\MSI\DOCUMENTS\PORTFOLIO\DIGITALTWIN\BUILD\CMAKEFILES\3EF8B617F9A318B2199948F3EACF7046\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/MSI/Documents/Portfolio/DIGITALTWIN -BC:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/MSI/Documents/Portfolio/DIGITALTWIN/build/EarthSystemsDigitalTwin.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,52 @@
+Unit conversion 1 0.0049603
+Unit compatibility 1 0.0047216
+Quantity arithmetic 1 0.0041539
+Unit mismatch throws 1 0.0047043
+Dimensionless and percent 1 0.0043979
+Instant comparison 1 0.0040462
+Instant arithmetic 1 0.0045886
+TimeRange validation 1 0.0044431
+TimeRange rejects invalid 1 0.0041547
+ISO8601 round trip 1 0.0050993
+SHA256 deterministic 1 0.0046334
+SHA256 differs 1 0.0042838
+Hash combine 1 0.0041252
+Provenance hash 1 0.0045236
+Provenance reproducibility 1 0.004383
+Provenance with issues 1 0.0040453
+Haversine distance 1 0.0045794
+Bounding box containment 1 0.0043313
+Bounding box intersection 1 0.0040955
+GeoRegion contains 1 0.0045591
+Spatial index insert/query 1 0.0042794
+Gaussian distribution 1 0.0039798
+Uniform distribution 1 0.0045442
+Uncertain value propagation 1 0.0043104
+Ensemble statistics 1 0.0039477
+Uncertainty budget 1 0.0044544
+Coupling link management 1 0.0044137
+Coupling unit check 1 0.0041091
+Coupling unit mismatch 1 0.0045936
+Coupling timestep check 1 0.0042735
+Coupling validate_all 1 0.0039956
+Time interpolation linear 1 0.0045764
+Mass conservation error 1 0.0045722
+Scenario basic run 1 0.0040443
+Scenario rejects invalid time range 1 0.0044855
+Scenario unknown model fails 1 0.0045562
+Run manifest round trip 1 0.0044511
+Manifest signing 1 0.0042366
+Intervention library 1 0.0044154
+RMSE 1 0.0048439
+RMSE non-zero 1 0.0041403
+Bias 1 0.004525
+Correlation 1 0.0043845
+Nash-Sutcliffe perfect 1 0.0039235
+Monte Carlo propagation 1 0.0044222
+CRPS 1 0.0043928
+Brier score perfect 1 0.0040461
+Deterministic hash 1 0.0042202
+Hash changes with input 1 0.0043589
+Manifest signature reproducibility 1 0.0039778
+Deterministic instant 1 0.0041089
+---

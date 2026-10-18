@@ -1,0 +1,34 @@
+{
+  "scenario_id": "intervention_carbon_tax",
+  "name": "Carbon tax intervention",
+  "type": "intervention",
+  "description": "Baseline with a carbon tax reducing fossil emission intensity.",
+  "start_time": "2000-01-01T00:00:00Z",
+  "end_time": "2030-01-01T00:00:00Z",
+  "time_step_hours": 6,
+  "models": [
+    {
+      "model_name": "simple_atmosphere",
+      "seed": 42,
+      "parameters": {}
+    },
+    {
+      "model_name": "dispatch_model",
+      "seed": 42,
+      "parameters": {
+        "emission_intensity_fossil": 0.35
+      }
+    }
+  ],
+  "coupling_links": [],
+  "interventions": [
+    {
+      "name": "carbon_tax",
+      "description": "Reduce fossil emission intensity via carbon pricing",
+      "target_model": "dispatch_model",
+      "parameter": "emission_intensity_fossil",
+      "value": 0.35,
+      "start_time": "2020-01-01T00:00:00Z"
+    }
+  ]
+}
